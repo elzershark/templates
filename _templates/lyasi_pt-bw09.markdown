@@ -9,3 +9,5 @@ image: https://images-na.ssl-images-amazon.com/images/I/61Skp0WxTJL._SL1000_.jpg
 template: '{"NAME":"Lyasi PT-BW09","GPIO":[17,255,255,255,143,144,0,0,0,0,0,0,0],"FLAG":0,"BASE":27}'
 link_alt:
 ---
+
+This is never ever a bulb.. i can not habe a button
